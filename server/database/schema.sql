@@ -1,0 +1,1 @@
+SELECT * FROM shop_project_db.products;

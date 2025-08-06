@@ -9,7 +9,6 @@ yarn-error.log*
 node_modules/
 
 # For both client and server folders
-/client/dist
 /client/node_modules
 /server/node_modules
 

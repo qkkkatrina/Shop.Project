@@ -1,17 +1,4 @@
 
-# Build artifacts
-dist/
-build/
-client/dist/
-
-
-# For macOS
-.DS_Store
-
-# For VS Code
-.vscode/
-
-
 # Log files
 npm-debug.log*
 yarn-debug.log*
